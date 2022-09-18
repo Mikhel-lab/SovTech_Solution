@@ -10,4 +10,5 @@ Blazor(SPA),
 
 # Installation
 Clone the repo and build.
+https://github.com/Mikhel-lab/SovTech_Solution
 Run both the backend and the front end together.
