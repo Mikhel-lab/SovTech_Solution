@@ -1,0 +1,60 @@
+﻿@page "/search"
+@using SovTechBackend.Model.DTOs
+@using SovTechWeb.Service.Interface
+@using SovTechWeb.Service.Response
+
+@inject ISOvTechService  service
+
+ <h3>Search Functionality</h3>
+
+ <input type="text" @bind-value="@searchTerm" />
+<input type="button" value="Search" @onclick="() => SearchIssues()"/>
+
+
+
+
+
+@if (rootJokePeople == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+      var joke = new[] { rootJokePeople.Jokes };
+      var swapi = new[] { rootJokePeople.Peoples };
+      var jokeswapi = joke.Zip(swapi, (n, w) => new { Joke = n, Swapi = w });
+      @foreach (var item in jokeswapi)
+     {
+       
+     }
+  
+}
+
+
+
+
+
+
+@code {
+    private string searchTerm;
+
+    public List<PeopleResponseResult> PeopleResponse { get; set; } = new List<PeopleResponseResult>();
+    public List<PeopleResponse> People { get; set; } = new List<PeopleResponse>();
+
+    public List<Searcing> searchDetailResponse { get; set; } = new List<Searcing>();
+
+
+    public RootJokePeople rootJokePeople { get; set; }
+    //IEnumerable<string> jokeswapi;
+
+    protected async Task SearchIssues()
+    {
+        rootJokePeople =  await service.SearchQuery(searchTerm);
+        var joke = new[] { rootJokePeople.Jokes };
+        var swapi = new[] { rootJokePeople.Peoples };
+
+       
+       
+    }
+       
+}

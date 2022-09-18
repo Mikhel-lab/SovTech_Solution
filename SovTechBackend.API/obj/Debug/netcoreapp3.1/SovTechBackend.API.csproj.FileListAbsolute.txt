@@ -1,0 +1,64 @@
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.exe
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.deps.json
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.runtimeconfig.json
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.runtimeconfig.dev.json
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.pdb
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.csproj.AssemblyReference.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.AssemblyInfoInputs.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.AssemblyInfo.cs
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\staticwebassets\SovTechBackend.API.StaticWebAssets.Manifest.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.RazorTargetAssemblyInfo.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.pdb
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.genruntimeconfig.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.csproj.CopyComplete
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.Service.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.Service.pdb
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.exe
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.deps.json
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.runtimeconfig.json
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.runtimeconfig.dev.json
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.API.pdb
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.Model.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.Service.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.Model.pdb
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\bin\Debug\netcoreapp3.1\SovTechBackend.Service.pdb
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.csproj.AssemblyReference.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.AssemblyInfoInputs.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.AssemblyInfo.cs
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.csproj.CoreCompileInputs.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\staticwebassets\SovTechBackend.API.StaticWebAssets.Manifest.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.RazorTargetAssemblyInfo.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.csproj.CopyComplete
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.pdb
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.API\obj\Debug\netcoreapp3.1\SovTechBackend.API.genruntimeconfig.cache

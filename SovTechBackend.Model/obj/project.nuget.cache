@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1LdCnUw01Qn190xBMyFBoctPqTV8yI0hpG8nkbtTQ4WbJA0qYZIWnGf7u7cGUgqCB7OHAK9BLsVEDSecUA68Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiyetanm\\Downloads\\sovtech-backend-main\\sovtech-backend-main\\SovTechBackend.Model\\SovTechBackend.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiyetanm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

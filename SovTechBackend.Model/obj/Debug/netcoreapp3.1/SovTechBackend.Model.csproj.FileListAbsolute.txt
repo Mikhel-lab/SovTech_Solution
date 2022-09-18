@@ -1,0 +1,10 @@
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\bin\Debug\netcoreapp3.1\SovTechBackend.Model.deps.json
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\bin\Debug\netcoreapp3.1\SovTechBackend.Model.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\bin\Debug\netcoreapp3.1\SovTechBackend.Model.pdb
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.csproj.AssemblyReference.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.AssemblyInfoInputs.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.AssemblyInfo.cs
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.csproj.CoreCompileInputs.cache
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.dll
+C:\Users\aiyetanm\Downloads\sovtech-backend-main\sovtech-backend-main\SovTechBackend.Model\obj\Debug\netcoreapp3.1\SovTechBackend.Model.pdb

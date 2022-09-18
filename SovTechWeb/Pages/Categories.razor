@@ -1,0 +1,106 @@
+﻿@page "/fetchdata"
+
+
+@using SovTechWeb.Data
+@using SovTechWeb.Service.Interface
+@using SovTechWeb.Service.Response
+@inject ISOvTechService  service
+@inject WeatherForecastService ForecastService
+
+
+
+@if (category == null ||  categoryDetailResponse == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>List Of Categories</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in category)
+            {
+                <tr>
+                    <td>@c</td>
+                   <button class="btn btn-success" @onclick="() => ModalShow(c)">Details</button>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+@if (showModal)
+{
+    <div class="modal fade show" id="myModal" style="display:block" aria-modal="true" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Category Details</h4>
+                    <button type="button" class="close" @onclick="@ModalCancel">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <p>Category Url : @categoryDetailResponse.Url </p>
+                </div>
+                <div class="modal-body">
+                    <p>Category Id : @categoryDetailResponse.Id </p>
+                </div>
+                 <div class="modal-body">
+                    <p>Category Value : @categoryDetailResponse.Value </p>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn" @onclick="@ModalCancel">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
+
+
+
+@code {
+        private WeatherForecast[] forecasts;
+        string categoryDetails;
+
+        public List<string> category { get; set; } = new List<string>();
+
+        public CategoryDetailResponse categoryDetailResponse { get; set; } = new CategoryDetailResponse();
+
+
+        protected override async Task OnInitializedAsync()
+        {
+           category = await service.GetJokeCategoriesAsync();
+        }
+
+        [Parameter]
+        public bool showModal { get; set; }
+
+        public async Task ModalShow(string categoryDetails)
+        {
+           showModal = true;
+           categoryDetailResponse = await service.GetRandomJoke(categoryDetails);
+        }
+
+        public void ModalCancel() => showModal = false;
+        public void ModalOk()
+        {
+           Console.WriteLine("Modal ok");
+           showModal = false;
+        }
+
+
+
+   
+}
